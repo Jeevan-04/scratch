@@ -1,1 +1,2 @@
 # scratch
+Scratch hackathon projects
